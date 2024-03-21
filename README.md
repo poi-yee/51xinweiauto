@@ -10,7 +10,7 @@
 
 饭饭，饿饿，富哥赏点😋
 
-<img src="https://github.com/poi-yee/51xinweiauto/blob/main/1.jpg" alt="Sponsor" width="600"/>
+<img src="https://github.com/poi-yee/51xinweiauto/blob/main/0.jpg" alt="Sponsor" width="600"/>
 
 感谢您的支持！
 
